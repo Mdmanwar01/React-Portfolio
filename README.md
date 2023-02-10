@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+#  The website is uploaded here https://mdmanwar01.github.io/React-Portfolio/
+# If it's blank when it is open then click on the home button to see the page 
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
