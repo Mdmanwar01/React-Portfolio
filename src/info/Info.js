@@ -9,7 +9,7 @@ export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
 export const info = {
     firstName: " Md Manwar",
     lastName: "Hossain",
-    initials: "js", 
+    initials: "Bonny", 
     position: "a Full Stack and Game Developer",
     selfPortrait: self, 
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
